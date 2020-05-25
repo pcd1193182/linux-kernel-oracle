@@ -1,0 +1,5 @@
+linux-oracle-5.4 (5.4.0-1000.0) bionic; urgency=medium
+
+  * Initial oracle-5.4 packaging.
+
+ -- Stefan Bader <stefan.bader@canonical.com>  Mon, 25 May 2020 14:13:53 +0200
