@@ -1,7 +1,7 @@
 # Menu: HEADER
 # FORMAT: 4
-# ARCH: amd64 arm64
-# FLAVOUR: amd64-oracle arm64-oracle
+# ARCH: amd64
+# FLAVOUR: amd64-oracle
 
 include "../../debian.oracle/config/annotations"
 
